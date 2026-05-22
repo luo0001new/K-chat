@@ -1,0 +1,32 @@
+package com.example.kchat.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val iOSBlue = Color(0xFF007AFF)
+val iOSBlueDark = Color(0xFF004999)
+val iOSBlueLight = Color(0xFF5AC8FA)
+val iOSGray = Color(0xFFE9E9EB)
+val iOSGrayDark = Color(0xFF8E8E93)
+val iOSGrayLight = Color(0xFFF2F2F7)
+val iOSBackground = Color(0xFFF2F2F7)
+val iOSInputBackground = Color(0xFFF2F2F7)
+val iOSCardBackground = Color(0xFFFFFFFF)
+val iOSDarkText = Color(0xFF000000)
+val iOSLightText = Color(0xFFFFFFFF)
+val iOSGreen = Color(0xFF34C759)
+val iOSGreenDark = Color(0xFF248A3D)
+val iOSRed = Color(0xFFFF3B30)
+val iOSOrange = Color(0xFFFF9500)
+val iOSYellow = Color(0xFFFFCC00)
+val iOSSeparator = Color(0xFFC6C6C8)
+val iOSThinSeparator = Color(0xFFE5E5E5)
+val iOSShadow = Color(0x1A000000)
+val iOSDeepShadow = Color(0x33000000)
+val iOSPlaceholder = Color(0xB3B0B0B0)
+val iOSLikeRed = Color(0xFFFF2D55)
+
+val iPhoneBlueGradient = listOf(Color(0xFF007AFF), Color(0xFF0055CC))
+val MessageSentGradient = listOf(Color(0xFF007AFF), Color(0xFF5856D6))
+val MessageReceivedGradient = listOf(Color(0xFFE9E9EB), Color(0xFFDFDFE3))
+val CardSurfaceTint = Color(0x0F007AFF)
+val SeparatorTint = Color(0xFFE5E5EA)
