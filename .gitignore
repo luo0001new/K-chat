@@ -10,5 +10,5 @@
 .cxx
 local.properties
 /.kotlin/
-/.trae/documents/
+/.trae/
 **/.kotlin/
